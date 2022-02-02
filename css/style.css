@@ -62,7 +62,7 @@ body>* {
 }
 
 main, header, nav, article, aside, footer, section {
-  background-color: rgba(0, 255, 0, 0.5);
+  background-color: rgba(83, 188, 209, 0.5);
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.20);
   padding: 1%;
 }
